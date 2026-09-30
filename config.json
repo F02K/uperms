@@ -1,0 +1,12 @@
+{
+  "owners": [],
+  "storage": "json",
+  "defaultGroup": "default",
+  "commandPrefix": "uperms",
+  "mysql": {
+    "table": "uperms_data",
+    "connectionLimit": 10,
+    "slowQueryWarningMs": 150,
+    "debug": false
+  }
+}
