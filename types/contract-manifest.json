@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "slug": "kcdc",
+  "channel": "testing",
+  "revision": "5c66a1389277bcf38b9c2513f819f8f4f5e0ad83e0a89604fbc9ea10b09f7e72",
+  "version": "1.4.0",
+  "files": [
+    {
+      "path": "reference.config.json",
+      "size": 556,
+      "sha256": "61104b2a2b7c1b991735050247918461a9154e635935b93e04510b1efa74700b",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "targets/client/api.d.ts",
+      "size": 146950,
+      "sha256": "77646a7c80bbd762870dc27a16784abb815c6d08934f5042cb309737e8f0f073",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "targets/client/metadata.json",
+      "size": 227851,
+      "sha256": "6b2b82dc8dcac81d291f93b87393e0fa132d162b342dfcd240a1ad5ab08c3a3e",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "targets/client/tsconfig.json",
+      "size": 263,
+      "sha256": "f28b513cd0a576fb6e82fe33523c1ed6d17deee9c22b78c1d45c6cb445725e78",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "targets/server/api.d.ts",
+      "size": 176741,
+      "sha256": "7bcb7d26596f8a4efde1aa67df1e076e56b213e3baaa11dc5a2514c9b54286ca",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "targets/server/metadata.json",
+      "size": 258846,
+      "sha256": "7eb358d6c6a0418be3a96a028f862a50c56fb731af1956e8cd52a3df51121b9b",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "targets/server/tsconfig.json",
+      "size": 263,
+      "sha256": "f28b513cd0a576fb6e82fe33523c1ed6d17deee9c22b78c1d45c6cb445725e78",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "targets/shared.d.ts",
+      "size": 3220,
+      "sha256": "54354025670ac5fd8ced63edbe0abf9dd79177bef8b3404d16941c4441ed608d",
+      "contentType": "application/octet-stream"
+    }
+  ]
+}
